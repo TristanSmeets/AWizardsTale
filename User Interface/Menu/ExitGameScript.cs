@@ -1,0 +1,14 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ExitGameScript : MonoBehaviour {
+
+	public void QuitGame()
+	{
+#if (UNITY_EDITOR)
+		print("Closing application");
+#endif
+		Application.Quit();
+	}
+}
