@@ -1,7 +1,9 @@
 # A Wizard's Tale
 
+![](https://raw.githubusercontent.com/TristanSmeets/AWizardsTale/master/Images/portrait.jpg)
+
 ### Game Trailer
-[Trailer](https://youtu.be/6_BZWhZkq10)
+[Youtube](https://youtu.be/6_BZWhZkq10)
 
 ---
 
@@ -35,7 +37,7 @@ It taught me some easy ways to pass data around that needs to be updated from sp
 ### Basic Info
 **Duration:** 3 weeks
 
-**Date:** 07=12-2018
+**Date:** 07-12-2018
 
 **Engine:** Unity
 
@@ -53,10 +55,7 @@ It taught me some easy ways to pass data around that needs to be updated from sp
 
  [2]: https://www.artstation.com/eriminati
  [3]: https://www.artstation.com/milva
- [4]: #
  [5]: https://github.com/TristanSmeets/AWizardsTale
  [6]: https://knuckledevs.tumblr.com/
  [7]: https://www.artstation.com/selimahei
  [8]: https://inkenstarosta.com/
- [9]: #
- [10]: #
