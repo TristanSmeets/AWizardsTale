@@ -35,7 +35,7 @@ It taught me some easy ways to pass data around that needs to be updated from sp
 ### Basic Info
 **Duration:** 3 weeks
 
-**Date:** 2018-12-07
+**Date:** 07=12-2018
 
 **Engine:** Unity
 
