@@ -12,8 +12,6 @@ A Wizard's tale is the result of a three week full-time school project. The assi
 
 A Wizard's tale is a third person action tower defense like game made with Unity. It is inspired by games like Orcs Must Die and Dungeon Defenders. In the game the player must find and return crystals to a main crystal. After collecting a crystal a portal opens at that location from which enemies appear. The enemies will try to destroy the main crystal or kill the player if he comes to close to them. Depending on the crystal a player would return the player would get a different permanent power-up.
 
-[Development Blog][6]
-
 ---
 
 ### My Responsibilities
@@ -55,7 +53,5 @@ It taught me some easy ways to pass data around that needs to be updated from sp
 
  [2]: https://www.artstation.com/eriminati
  [3]: https://www.artstation.com/milva
- [5]: https://github.com/TristanSmeets/AWizardsTale
- [6]: https://knuckledevs.tumblr.com/
  [7]: https://www.selimaheister.com/
  [8]: https://inkenstarosta.com/
