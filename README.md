@@ -57,5 +57,5 @@ It taught me some easy ways to pass data around that needs to be updated from sp
  [3]: https://www.artstation.com/milva
  [5]: https://github.com/TristanSmeets/AWizardsTale
  [6]: https://knuckledevs.tumblr.com/
- [7]: https://www.artstation.com/selimahei
+ [7]: https://www.selimaheister.com/
  [8]: https://inkenstarosta.com/
